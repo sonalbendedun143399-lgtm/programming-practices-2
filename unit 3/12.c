@@ -1,3 +1,4 @@
+//Enter a string and print it in lowercase letters. 
 #include <stdio.h>
 #include <ctype.h>  // For tolower()
 
