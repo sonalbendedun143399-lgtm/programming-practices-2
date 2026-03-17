@@ -1,3 +1,4 @@
+//Find out maximum and minimum number using pointer to function
 #include <stdio.h>
 
 // Function to find maximum
