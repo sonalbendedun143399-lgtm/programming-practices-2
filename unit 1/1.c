@@ -1,3 +1,4 @@
+//Enter N elements and print them
 #include<stdio.h>
 int main()
 {
