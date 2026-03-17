@@ -1,3 +1,4 @@
+//. Enter a string and print it in reverse order. 
 #include <stdio.h>
 #include <string.h>
 
