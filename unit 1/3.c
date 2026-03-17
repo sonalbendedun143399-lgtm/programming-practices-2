@@ -1,3 +1,4 @@
+// Enter N elements and find maximum and minimum value
 #include<stdio.h>
 int main()
 {
