@@ -1,3 +1,4 @@
+//Subtract two matrices using pointer to pointer.
 #include <stdio.h>
 #include <stdlib.h>
 
