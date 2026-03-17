@@ -1,3 +1,4 @@
+//Enter N elements and find out sum and average of them using dynamic array.
 #include <stdio.h>
 #include <stdlib.h>
 
