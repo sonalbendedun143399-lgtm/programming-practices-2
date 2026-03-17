@@ -1,3 +1,4 @@
+//. Compare two strings and find out strings are same or not.
 #include <stdio.h>
 #include <string.h>
 
