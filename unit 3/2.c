@@ -1,3 +1,4 @@
+//find out area of circle using pointer and function
 #include <stdio.h>
 
 // Function to calculate area using pointer
