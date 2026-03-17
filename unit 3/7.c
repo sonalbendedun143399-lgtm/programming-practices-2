@@ -1,3 +1,4 @@
+//Add two matrices using array of pointers.
 #include <stdio.h>
 #include <stdlib.h>
 
