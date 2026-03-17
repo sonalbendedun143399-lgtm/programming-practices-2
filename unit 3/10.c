@@ -1,3 +1,4 @@
+//Enter 2 strings and concate them.
 #include <stdio.h>
 #include <string.h>
 
