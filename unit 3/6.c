@@ -1,3 +1,4 @@
+//Enter N elements and find out sum of odd and even numbers using dynamic array
 #include <stdio.h>
 #include <stdlib.h>
 
