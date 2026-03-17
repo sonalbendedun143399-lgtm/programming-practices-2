@@ -1,3 +1,4 @@
+//. Copy a string into another.
 #include <stdio.h>
 #include <string.h>
 
